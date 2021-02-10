@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68476379050",
+    "project_id": "bluestacksassignment",
+    "storage_bucket": "bluestacksassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68476379050:android:dc04ceba5514b8b42a15d3",
+        "android_client_info": {
+          "package_name": "com.slakra.bluestacks_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68476379050-26vfa6ggk5o8sgmsh97dd09qc9g4peoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slakra.bluestacks_assignment",
+            "certificate_hash": "93cb27232e4169fa7abac15b87daef54481896e6"
+          }
+        },
+        {
+          "client_id": "68476379050-t7ifofedca9v5fgnc1gbu5knbg86s88v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzdev4T8_1Cvxms8yy-65k2La8acvbzeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68476379050-t7ifofedca9v5fgnc1gbu5knbg86s88v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

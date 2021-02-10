@@ -1,0 +1,21 @@
+{
+  "app_title": "Bluestacks Demo",
+  "login": "Login",
+  "username_hint": "UserName (minimum 3 characters)",
+  "password_hint": "Password (minimum 3 characters)",
+  "username_error": "Invalid User Name",
+  "password_error": "Password does not match",
+  "user_id": "User Id : {}",
+  "logout": "Logout",
+  "recommended_title": "Recommended for you",
+  "elo_rating": "Elo rating",
+  "tournaments_played": "Tournaments played",
+  "tournaments_won": "Tournaments won",
+  "winning_percentage": "Winning percentage",
+  "no_internet": "No Internet connection",
+  "unknown_error": "Error occurred while Communication with Server with StatusCode {statusCode}",
+  "error_communication": "Error During Communication: ",
+  "invalid_request": "Invalid Request: ",
+  "unauthorised": "Unauthorised: ",
+  "invalid_input": "Invalid Input: "
+}

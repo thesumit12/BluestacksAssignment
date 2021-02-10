@@ -1,0 +1,21 @@
+{
+  "app_title": "Bluestacksデモ",
+  "login": "ログイン",
+  "username_hint": "ユーザー名（最低3文字)",
+  "password_hint": "パスワード（最低3文字）",
+  "username_error": "無効なユーザー名",
+  "password_error": "パスワードが一致しません",
+  "user_id": "ユーザーID : {}",
+  "logout": "ログアウト",
+  "recommended_title": "あなたにおすすめ",
+  "elo_rating": "イロレーティング",
+  "tournaments_played": "プレーしたトーナメント",
+  "tournaments_won": "トーナメントが勝ちました",
+  "winning_percentage": "勝率",
+  "no_internet": "インターネットに接続できません",
+  "unknown_error": "StatusCodeを使用したサーバーとの通信中にエラーが発生しました {statusCode}",
+  "error_communication": "通信中のエラー：",
+  "invalid_request": "無効なリクエスト: ",
+  "unauthorised": "許可されていない: ",
+  "invalid_input": "無効入力: "
+}
